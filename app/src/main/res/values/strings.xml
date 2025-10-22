@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LeonidApp</string>
+    <string name="git_name">10 команд Git</string>
+
+    <string name="git1">1. git init - создает новый репозиторий Git в текущей директории</string>
+    <string name="git2">2. git add - добавляет изменения из рабочей директории в раздел проиндексированных файлов</string>
+    <string name="git3">3. git status - показывает состояние рабочей директории и раздела проиндексированных файлов</string>
+    <string name="git4">4. git commit - фиксирует проиндексированные изменения и сохраняет их в историю версий</string>
+    <string name="git5">5. git branch - отображает, создает или удаляет ветки в репозитории</string>
+    <string name="git6">6. git push - загружает изменения из локального репозитория в удаленный репозиторий</string>
+    <string name="git7">7. git pull - загружает изменения из удаленного репозитория и объединяет их с текущей веткой</string>
+    <string name="git8">8. git merge - объединяет изменения из указанной ветки в текущую ветку</string>
+    <string name="git9">9. git clone - создает локальную копию удаленного репозитория</string>
+    <string name="git10">10. git checkout - переключается между ветками или восстанавливает файлы рабочей директории</string>
+</resources>
